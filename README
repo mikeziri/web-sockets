@@ -1,0 +1,8 @@
+this is my implementation of the web-sockets protocol on php and javascript (nodejs)
+plus, i include the client-side in js/ folder, although it lacks a user interface.
+
+keep in mind this has a game platform in mind so you'll see everything around 'player'
+objects and lots of comments referring to it.
+
+feel free to drop me a comment on the blog (http://blog.mwmdev.com/projects/308/) or
+to tweet me @mikeziri
